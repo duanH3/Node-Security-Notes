@@ -1,6 +1,5 @@
 # Node-Security-Notes
 
-
 # TLS over HTTPS
 
 Always use TLS encryption over https:// when working with forms so that the submitted data is encrypted when it’s sent 
